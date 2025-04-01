@@ -31,7 +31,7 @@ lib/
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/nimahedayati/flutter_chand
 ```
 
 2. Navigate to the project directory
@@ -52,7 +52,7 @@ flutter run
 ## Backend Repository
 
 This application is connected to a backend service. You can find the backend repository at:
-[Backend Repository URL]
+[[Backend Repository URL]](https://github.com/nimahedayati/python_chand)
 
 ## Dependencies
 
